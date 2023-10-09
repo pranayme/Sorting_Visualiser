@@ -1,4 +1,5 @@
-# Sorting_Visualiser -: The Sorting Visualizer is an interactive web-based application designed to provide users with a hands-on experience of various sorting algorithms. Sorting algorithms play a fundamental role in computer science and are crucial for organizing data efficiently. 
+## Sorting_Visualiser 
+The Sorting Visualizer is an interactive web-based application designed to provide users with a hands-on experience of various sorting algorithms. Sorting algorithms play a fundamental role in computer science and are crucial for organizing data efficiently. 
 This project aims to bridge the gap between theoretical knowledge and practical understanding by allowing users to visualize the sorting process in real-time.
 
 Front-end Development:
@@ -8,7 +9,7 @@ CSS (Cascading Style Sheets): CSS is utilized for styling and layout, enhancing 
 JavaScript: As a versatile scripting language, JavaScript is the heart of the project, enabling interactivity, data manipulation, and real-time visualizations. It facilitates the animation of sorting algorithms and allows users to control the sorting process.
 
 
-Features -:
+## Features -:
 Real-time Visualization.
 Multiple Sorting Algorithms.
 Customizable Array Size.
