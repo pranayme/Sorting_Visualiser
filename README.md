@@ -9,9 +9,9 @@ JavaScript: As a versatile scripting language, JavaScript is the heart of the pr
 
 
 Features -:
-Real-time Visualization
-Multiple Sorting Algorithms
-Customizable Array Size
-Speed Control
-Randomized Data Generation
-Color-coded Elements
+Real-time Visualization.
+Multiple Sorting Algorithms.
+Customizable Array Size.
+Speed Control.
+Randomized Data Generation.
+Color-coded Elements.
