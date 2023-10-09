@@ -3,10 +3,10 @@ The Sorting Visualizer is an interactive web-based application designed to provi
 This project aims to bridge the gap between theoretical knowledge and practical understanding by allowing users to visualize the sorting process in real-time.
 
 Front-end Development:
-HTML (Hypertext Markup Language): HTML serves as the backbone of the Sorting Visualizer, providing the structure and content for the web application.
-CSS (Cascading Style Sheets): CSS is utilized for styling and layout, enhancing the visual appeal of the Sorting Visualizer's user interface. It ensures a clean and intuitive design for an optimal user experience.
+* HTML (Hypertext Markup Language): HTML serves as the backbone of the Sorting Visualizer, providing the structure and content for the web application.
+* CSS (Cascading Style Sheets): CSS is utilized for styling and layout, enhancing the visual appeal of the Sorting Visualizer's user interface. It ensures a clean and intuitive design for an optimal user experience.
 
-JavaScript: As a versatile scripting language, JavaScript is the heart of the project, enabling interactivity, data manipulation, and real-time visualizations. It facilitates the animation of sorting algorithms and allows users to control the sorting process.
+* JavaScript: As a versatile scripting language, JavaScript is the heart of the project, enabling interactivity, data manipulation, and real-time visualizations. It facilitates the animation of sorting algorithms and allows users to control the sorting process.
 
 
 ## Features -:
